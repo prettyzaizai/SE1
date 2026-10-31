@@ -1,4 +1,11 @@
 
+//
+// This program is an educational example under version control.
+// Author: XuShuai
+// Group: §±-161
+// Year: 2026
+//
+
 #include <iostream>
 using namespace std;
 
