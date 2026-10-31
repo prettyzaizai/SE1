@@ -1,8 +1,8 @@
 
 //
 // This program is an educational example under version control.
-// Author: XuShuai
-// Group: §±-161
+// Author: xushuai
+// Group: ÐŸ-161
 // Year: 2026
 //
 
@@ -18,6 +18,7 @@ int main()
 
     cout << "A + B = " << a + b << '\n';
     cout << "A - B = " << a - b << '\n';
+    cout << "A * B = " << a * b << '\n';
 
     return 0;
 }
